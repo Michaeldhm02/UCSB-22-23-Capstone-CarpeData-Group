@@ -1,1 +1,2 @@
-# UCSB-22-23-Capstone-CarpeData-Group
+### capstone-carpe-data
+This is the repository for storing Carpe Data team's scripts!
